@@ -25,4 +25,17 @@ Can work without internet	Usually requires internet access
 Free and open-source software	A service owned by GitHub 
 Used for version control        Used for collaboration, code sharing, and project management
 
+4. 3 git commands:
+Answer-
+1. git init – Initialize a Git Repository
+Creates a new Git repository in the current project folder.
+Used when starting version control for a project.
 
+2.git add – Stage Changes
+Adds files to the staging area before committing.
+Used to prepare changes for saving
+
+3.git commit – Save Changes
+Records the staged changes in Git history.
+Creates a checkpoint of your project
+.
